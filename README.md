@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SIDDHANT lAVANDE
+- 👋 Hi, I’m SIDDHANT LAVANDE
 - 👀 I’m interested in DATA ANALYST/DATA SCIENCE
 - 🌱 I’m currently learning SQL/PYTHON/POWERBI
 
